@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: book-review
 title: "Nonlinear Dynamics and Chaos"
 author: Strogatz, Steven H.
 image:
