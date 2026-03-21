@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Keyue Jiang, a first-year Computer Science student at Charles University (Matfyz) in Prague.
+I'm a first-year Computer Science student at Charles University (Matfyz) in Prague.
 
 My interests lie at the intersection of **Computational Neuroscience** and **Artificial Intelligence**, referred to as **NeuroAI**. I'm fascinated by how dynamical systems can help us understand both biological and artificial neural networks.
