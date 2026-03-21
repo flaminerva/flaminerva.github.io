@@ -44,7 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "teachings-data-science-fundamentals",
+        },{id: "books-nonlinear-dynamics-and-chaos",
+          title: 'Nonlinear Dynamics and Chaos',
+          description: "N/A",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nonlinear_chaos/";
+            },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
@@ -59,7 +64,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6B%65%79%75%65.%6A@%70%72%6F%6E%74%6F.%6D%65", "_blank");
+          window.open("mailto:%6B%65%79%75%65.%6A@%70%72%6F%74%6F%6E.%6D%65", "_blank");
         },
       },{
         id: 'social-rss',
